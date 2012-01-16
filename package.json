@@ -1,0 +1,17 @@
+{
+  "name": "presence",
+  "version": "0.0.1-8",
+  "author": "Fabrizio Codello",
+  "engines": {
+    "node": "0.6.7"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "2.5.6",
+    "socket.io": "0.8.7"
+  },
+  "subdomain": "presence",
+  "scripts": {
+    "start": "server.js"
+  }
+}
