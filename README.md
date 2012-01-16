@@ -3,6 +3,8 @@ Presence
 
 Experimenting multiplayer mouse chat, using Node.js, Express.js and Socket.io
 
+It is based on [support-chat](https://github.com/Fabryz/support-chat)
+
 Requirements
 ------------
 
@@ -24,6 +26,8 @@ Installation
 3. Start the server with ``node server.js`` or ``nodemon server.js`` if you have it
 4. Point your browser to ``YOUR_SERVER_IP:8080``
 5. Move around and chat with who's connected
+
+You can find an [online working demo over here](http://presence.nodejitsu.com/)
 
 License
 -------
