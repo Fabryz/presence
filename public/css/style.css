@@ -52,3 +52,11 @@ a {
 .mouse span {
 	margin-left: 20px;
 }
+
+#ribbon {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 0;
+	z-index: 999;
+}
